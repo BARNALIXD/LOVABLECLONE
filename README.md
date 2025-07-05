@@ -1,1 +1,3 @@
 # LOVABLECLONE
+
+Built with Next.js 15, React 19, Tailwind v4, and a fully modern AI-first toolchain.  Key features: 🚀 Next.js 15 + React 19 🎨 Tailwind v4 + Shadcn/ui 📡 tRPC for full-stack type safety 🔁 Inngest background jobs 🧠 Inngest agent toolkit 🔐 Clerk authentication 💳 Clerk billing 🧱 Component and app generation from AI prompts 🗂️ Live project preview with URL access 🖥️ E2B cloud sandboxes for runtime execution 🐳 Docker-based sandbox templating 🧠 AI model support (OpenAI, Anthropic, Grok) 📦 Prisma + Neon for database integration 🤖 CodeRabbit AI-powered PR reviews 🧾 Built-in credit system with usage tracking 🧪 Preview + code explorer toggle
